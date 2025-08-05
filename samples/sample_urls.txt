@@ -1,0 +1,25 @@
+# Sample URL file for URL Screenshot Tool
+# Format: NAME|URL or NAME,URL or just URL
+# Lines starting with # are comments
+
+# Popular websites
+Google|https://www.google.com
+GitHub|https://github.com
+Stack Overflow,https://stackoverflow.com
+Python Official,https://www.python.org
+Wikipedia|https://www.wikipedia.org
+
+# News and media
+BBC News|https://www.bbc.com/news
+CNN,https://www.cnn.com
+Reddit|https://www.reddit.com
+
+# Tech companies
+Microsoft|https://www.microsoft.com
+Apple,https://www.apple.com
+Amazon|https://www.amazon.com
+
+# Just URLs (names will be auto-generated)
+https://www.youtube.com
+https://www.twitter.com
+https://www.facebook.com 
